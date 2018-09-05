@@ -1,4 +1,4 @@
-# PaloAltoInitialConfig
+# Palo Alto initial config
 
 ## Usage
 ```
