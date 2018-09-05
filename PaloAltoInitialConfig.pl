@@ -1,6 +1,6 @@
 #!/usr/bin/perl
  
-#PaloAltoInitialConf.pl
+#PaloAltoInitialConfig.pl
 #Copyright 2018 Roman Pikalo (pikalo.roman@gmail.com)
 #Licensed under http://www.gnu.org/copyleft/gpl.html
  
